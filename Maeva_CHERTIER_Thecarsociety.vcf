@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:CHERTIER;Maëva;;;
+FN:Maëva CHERTIER
+ORG:Thecarsociety
+TITLE:Directrice Générale
+TEL;TYPE=CELL,VOICE:+33753508227
+EMAIL;TYPE=WORK:contact@thecarsociety.fr
+URL:https://thecarsociety.fr
+PHOTO;VALUE=URI:https://raw.githubusercontent.com/Lamine-admin/Thecarsociety_images/refs/heads/main/photo_profile_Maeva_Chertier_2.jpeg
+NOTE:La location solidaire : un investissement rentable\, éthique et sans effort — malovelycar.com
+item1.URL:https://www.facebook.com/profile.php?id=61576034588856
+item1.X-ABLabel:Facebook
+item2.URL:https://www.instagram.com/thecarsociety_autopartage/
+item2.X-ABLabel:Instagram
+item3.URL:https://www.linkedin.com/company/thecarsociety/
+item3.X-ABLabel:LinkedIn
+item4.URL:https://www.tiktok.com/@thecarsociety_carsharing
+item4.X-ABLabel:TikTok
+END:VCARD
